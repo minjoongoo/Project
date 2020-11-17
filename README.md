@@ -6,4 +6,4 @@
 
 ## 유튜브 링크: [![Watch the video](https://img.youtube.com/vi/hvoxAaqEclg/hqdefault.jpg)](https://youtu.be/hvoxAaqEclg)
 
-## [API로!](https://minjoongoo.github.io/repoPC/projPC/doc/index.html)
+## [API로!](https://minjoongoo.github.io/Project/Project/doc/index.html)
